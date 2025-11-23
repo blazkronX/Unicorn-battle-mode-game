@@ -14,7 +14,7 @@ const CharlieUnicornLogo = () => (
     transition={{ duration: 1, ease: "backOut" }}
   >
     <img
-      src="assets/images/first_image.svg"
+      src="/assets/images/first_image.svg"
       alt="Charlie Unicorn AI"
       className="w-full h-full object-contain drop-shadow-2xl"
     />
