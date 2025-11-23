@@ -245,7 +245,7 @@ useEffect(() => {
           animate={{ opacity: 1 }}
           transition={{ delay: 1 }}
         >
-          A Burned, Tired Unicorn can stilled retreat, but a uUnicorn with broken horn acnnot
+          A Burned, Tired Unicorn can still retreat, but a Unicorn with broken horn cannot
         </motion.p>
 
         {/* Cancel Button */}
