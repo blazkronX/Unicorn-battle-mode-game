@@ -227,7 +227,7 @@ export const OnboardingScreen: React.FC<OnboardingScreenProps> = ({ onComplete }
           >
             {/* Gradient border with rounded corners */}
             <div 
-              className="absolute hadow-[inset_0_0_0_2px_theme(colors.blue.500)] inset-0 bg-gradient-to-r from-cyan-400 via-purple-500 to-green-400 p-[2px] rounded-xl"
+              className="absolute shadow-[inset_0_0_0_2px_theme(colors.blue.500)] inset-0 bg-gradient-to-r from-cyan-400 via-purple-500 to-green-400 p-[2px] rounded-xl"
             >
               <div 
                 className="w-full h-full bg-gradient-to-r from-purple-600 to-blue-600 rounded-xl"
